@@ -20,7 +20,7 @@
       "port":"8086",
       "ref": "origin/master",
       "repo": "https://github.com/pin84/test.git",
-      "path": "/usr/myapp/test",
+      "path": "/usr/myapp/test/prodiction",
       "ssh_options": "StrictHostKeyChecking=no",
       "pre-deploy-local": "echo 'Deploy Done!'",
       "env": {
