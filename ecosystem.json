@@ -17,6 +17,7 @@
       "host": [
         "47.102.193.152"
       ],
+      "port":"22",
       "ref": "origin/master",
       "repo": "https://github.com/pin84/test.git",
       "path": "/usr/myapp/test",
