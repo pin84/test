@@ -12,7 +12,7 @@
     }
   ],
   "deploy": {
-    "Production": {
+    "production": {
       "user": "root",
       "host": [
         "47.102.193.152"
