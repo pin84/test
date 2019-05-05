@@ -23,7 +23,6 @@
       "path": "/usr/myapp/test",
       "ssh_options": "StrictHostKeyChecking=no",
       "pre-deploy-local": "echo 'Deploy Done!'",
-      "post-deploy": "npm install",
       "env": {
         "NODE_ENV": "production"
       }
