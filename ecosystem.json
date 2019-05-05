@@ -22,7 +22,6 @@
       "repo": "git@github.com:pin84/test.git",
       "path": "/usr/myapp/test",
       "ssh_options": "StrictHostKeyChecking=no",
-      "post-deploy": "npm install",
       "pre-deploy-local": "echo 'Deploy Done!'",
       "env": {
         "NODE_ENV": "production"
